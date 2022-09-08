@@ -1,0 +1,15 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+input.form-control.d-block.bg-white {
+    cursor: pointer;
+}
+
+.card-body {
+    display: flex;
+}
+
+#temp #humidity #UV-rays #wind-speed {
+border-bottom: 1px solid;
+}
