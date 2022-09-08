@@ -23,3 +23,30 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ```
+
+## Images
+
+![Demo](./images/06-server-side-apis-homework-demo.png)
+
+![initialization](./images/1.png)
+
+![Input](./images/2.png)
+
+![Saved Cities](./images/3.png)
+
+## Contributing
+
+```
+https://getbootstrap.com/
+https://cdnjs.cloudflare.com/
+https://fonts.google.com/
+https://openweathermap.org/
+https://unpkg.com/
+
+```
+
+## Links
+
+https://github.com/ptodd15/Weather-Dashboard
+
+https://ptodd15.github.io/Weather-Dashboard/
